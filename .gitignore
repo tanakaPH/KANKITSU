@@ -30,7 +30,6 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
@@ -54,6 +53,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.DS_Store
 
 # Crashlytics generated file
 crashlytics-build.properties
